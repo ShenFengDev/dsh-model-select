@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Provider inventory",
+    "description": "Read-only inventory of the profile's model providers. The provider_inventory tool lists providers with model counts, pages one provider's models, lists installed plugin entries with a keyword filter, and reports duplicate display names, configuration mismatches, and model ids shared by two or more providers. Use it in any session; it changes nothing."
+  }
+}
