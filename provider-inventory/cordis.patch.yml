@@ -1,0 +1,4 @@
+- insert:
+    - id: provider-inventory
+      name: '@local/provider-inventory'
+      config: {}
