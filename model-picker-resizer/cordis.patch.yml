@@ -1,0 +1,3 @@
+- insert:
+    - id: model-picker-resizer
+      name: '@local/model-picker-resizer'
